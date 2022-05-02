@@ -435,7 +435,7 @@ a{
     height: 52px;
     flex-shrink: 0;
 }
-
+/* Styles */
 .flex {
     display: flex;
 }
