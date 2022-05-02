@@ -1,2 +1,2 @@
 # Shelter
-https://MurodNazarov.github.io/Shelter/pages/main/
+https://MurodNazarov.github.io/Shelter/
