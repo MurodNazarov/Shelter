@@ -370,7 +370,7 @@ a{
     }
 
     .footer {
-        background: url("./images/start-screen-gradient-background.png");
+        background: url("../images/start-screen-gradient-background.png");
         background-size: cover;
         padding: 40px 0 0 0;
     }
