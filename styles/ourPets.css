@@ -145,6 +145,7 @@ a{
 @media (min-width: 1280px){
     .header {
         padding-top: 60px;
+        margin-bottom: 30px;
         display: flex;
         justify-content: space-between;
         align-items: center;
